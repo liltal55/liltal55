@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I’m liltal55!
+
+### 🎓 About Me
+- I’m a student at a trade school, exploring hands-on skills and real-world tech.
+- I’m passionate about **coding** and **designing**, always eager to learn more.
+
+### 🛠️ Favorite Project
+- **Built my own PC for my lab:** This was a big step in combining my love for technology, gaming, and practical skills.
+
+### 🎮 Interests
+- Gaming is my go-to hobby after a long day of learning.
+- I’m always up for discovering new games and tech trends.
+
+### 🚀 My Goals
+- Grow my coding and design skills.
+- Work on more cool projects, especially those that mix creativity and technology.
+
+---
+
+> “Still learning, still building, always leveling up.”
 
 <!--
-**liltal55/liltal55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+If you want to connect, feel free to add your social links below!
+[LinkedIn](#) • [Twitter](#) • [Website](#)
 -->
